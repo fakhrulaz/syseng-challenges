@@ -30,7 +30,7 @@ Question-Three :
 Assuming you are O365 Administrator in our company, suddenly we have spam attack to our organization with this details below:
 ```
 - From : itadmin@xyz.com ; (207.18.13.24)
-- Subject : PLEASE CHANGE PASSWORD
+- Subject : YOUR PASSWORD HAS BEN EXPIRED
 - to : all member
 ```
 
@@ -38,6 +38,6 @@ To prevent it we should recall all the spam email from every mailbox. But, befor
 
 ```
 a. Tell us step-by-step to prevent that spam attack appear again in our mailbox
-b. Please provide powershell script to recall spam mail from every mailbox
+b. Please provide powershell script to recall the spam mail from every mailbox
 ```
 
