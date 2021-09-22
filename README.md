@@ -2,12 +2,16 @@
 
 Question-One :
 
+Basic Linux
+
 ```
 a. Please provide a cronjob to Housekeeping log in /var/log/nginx/ if log more than 14 days
 b. Please provide a logrotate script in /etc/logrotate.d/ to compress log in /var/log/nginx/ if more than 100MB
 ```
 
 Question-Two :
+
+Office 365
 ```
 Assuming you are O365 Administrator in our company, suddenly we have spam attack to our organization with this details below:
 - From : itadmin@xyz.com ; (207.18.13.24)
