@@ -8,6 +8,15 @@ b. Please provide a logrotate script in /etc/logrotate.d/ to compress log in /va
 ```
 
 Question-Two :
-a. 
+```
+Assuming you are O365 Administrator in our company, suddenly we have spam attack to our organization with this details below:
+- From : itadmin@xyz.com ; (207.18.13.24)
+- Subject : PLEASE CHANGE PASSWORD
+- to : all member
+To prevent it we should recall all the spam email from every mailbox.
 
+a. Please provide workaround to prevent that spam attack appear again in our mailbox
+b. Please provide powershell script to recall spam mail from every mailbox
+
+```
 
