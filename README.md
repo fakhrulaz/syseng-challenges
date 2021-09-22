@@ -5,11 +5,21 @@ Question-One :
 Basic Linux
 
 ```
-a. Please provide a cronjob to Housekeeping log in /var/log/nginx/ if log more than 14 days
+a. Please provide a cronjob to Housekeeping log in /var/log/nginx/ if log more than 14 days 
 b. Please provide a logrotate script in /etc/logrotate.d/ to compress log in /var/log/nginx/ if more than 100MB
 ```
+Question-two :
 
-Question-Two :
+NGINX
+Our company has made in-house application to track all of employee performance. But the specs of the server itself put on the mininum specification, so we must pointing every users to access the server which has least connection. so we setup NGINX as our load balancer to do the job and here IP address of server application
+- appservern1 : 10.10.1.1
+- appservern2 : 10.10.1.2
+
+```
+Please provide /etc/nginx/nginx.conf to do the the job as a load balancer
+```
+
+Question-Three :
 
 Office 365
 ```
@@ -22,7 +32,7 @@ Assuming you are O365 Administrator in our company, suddenly we have spam attack
 To prevent it we should recall all the spam email from every mailbox. But, before we do that other O365 admin already search all the spam email using content search with "20210910_corpinfo" as a name
 
 ```
-a. Please provide workaround to prevent that spam attack appear again in our mailbox
+a. Tell us step-by-step to prevent that spam attack appear again in our mailbox
 b. Please provide powershell script to recall spam mail from every mailbox
 ```
 
